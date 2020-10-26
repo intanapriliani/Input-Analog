@@ -1,2 +1,2 @@
-# Input-Analog
-Simulasi Input Analog Arduino
+# sensor-suhu
+Pembacaan Sensor Suhu dengan Penampil LCD
